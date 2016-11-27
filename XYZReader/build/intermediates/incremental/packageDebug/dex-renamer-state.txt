@@ -1,7 +1,0 @@
-#Sun Nov 27 16:26:43 IST 2016
-base.0=/Users/abhinandan/Workspace/AND/ANDP5_XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd8fe694823c8962fcaf987e4573a6692644692f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/abhinandan/Workspace/AND/ANDP5_XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b99cd0ee9f408206603f2ede413230549a2b0301/classes.dex
-base.1=/Users/abhinandan/Workspace/AND/ANDP5_XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b99cd0ee9f408206603f2ede413230549a2b0301
-file.0=/Users/abhinandan/Workspace/AND/ANDP5_XyzReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd8fe694823c8962fcaf987e4573a6692644692f/classes.dex
